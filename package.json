@@ -1,0 +1,8 @@
+{
+  "name": "atividade-jest-parte-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercícios avançados de Jest com regex, datas, classes e mocks",
+  "scripts": { "test": "jest --runInBand" },
+  "devDependencies": { "jest": "^29.7.0" }
+}
